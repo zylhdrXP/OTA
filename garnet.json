@@ -1,0 +1,30 @@
+{
+    "response": [
+        {
+            "maintainer": "HEYDR",
+            "oem": "Xiaomi",
+            "device": "Redmi Note 13 Pro 5G / POCO X6 5G",
+            "filename": "crDroidAndroid-17.0-20261102-garnet-Gapps-v13.0.zip",
+            "download": "https://sourceforge.net/projects/garnet-id/files/crdroid/17.0/crDroidAndroid-17.0-20261102-garnet-Gapps-v13.0.zip/download",
+            "timestamp": 1793654036,
+            "md5": "f9c4ab9ec76bd0ce6c2a5de2e487c1b3",
+            "sha256": "79e6fed28a80ec7e891fbb1b20eaa22affc3683ce55e0c5af5f206f456f04583",
+            "size": 2307352144,
+            "version": "Gapps",
+            "os_patch_level": "2026-10-01",
+            "os_sdk_level": 37,
+            "buildtype": "Monthly",
+            "forum": "",
+            "gapps": "",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "https://sourceforge.net/projects/garnet-id/files/crdroid/17.0/recovery/recovery.img/download",
+            "paypal": "",
+            "telegram": "https://t.me/chatzylplayground",
+            "dt": "https://github.com/Fleur-Project/android_device_xiaomi_garnet/tree/17",
+            "common-dt": "",
+            "kernel": "https://github.com/Fleur-Project/android_kernel/xiaomi/sm7435/tree/17"
+        }
+    ]
+}
