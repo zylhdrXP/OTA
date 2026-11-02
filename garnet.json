@@ -1,0 +1,18 @@
+[
+  {
+    "datetime": 1793787949,
+    "files": [
+      {
+        "filename": "uwuAOSP-17.0.181-20261104-UNOFFICIAL-garnet-signed.zip",
+        "os_patch_level": "2026-10-01",
+        "os_sdk_level": 37,
+        "ota_property_files": "payload_metadata.bin:4546:206797,payload.bin:4546:3021353592,payload_properties.txt:3021358196:156,apex_info.pb:2164:1448,care_map.pb:3659:840,metadata:69:689,metadata.pb:826:1290",
+        "sha256": "05d586e6badc89425814966d2263a808fd01740aceaecf6076d5d91dc8e7ce50",
+        "size": 3021361573,
+        "url": "https://sourceforge.net/projects/garnet-id/files/uwuAOSP/uwuAOSP-17.0.181-20261104-UNOFFICIAL-garnet-signed.zip/download"
+      }
+    ],
+    "type": "UNOFFICIAL",
+    "version": "17.0.181"
+  }
+]
